@@ -13,6 +13,9 @@
             "homepage": "https://www.github.com/persiliao"
         }
     ],
-    "require": {},
+    "require": {
+        "php": ">5.3",
+        "ext-json": "*"
+    },
     "homepage": "https://www.wpcodec.com"
 }
